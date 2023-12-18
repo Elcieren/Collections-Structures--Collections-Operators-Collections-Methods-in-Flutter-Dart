@@ -3,7 +3,8 @@ We will discuss iterable, list, map and set again and see various looping techni
 
   
 
-![resimler](https://github.com/Elcieren/Collections-Structures--Collections-Operators-Collections-Methods-in-Flutter-Dart/assets/117864036/2796052f-1197-4933-925e-db37dc2dc485)
+![resimler](https://github.com/Elcieren/Collections-Structures--Collections-Operators-Collections-Methods-in-Flutter-Dart/assets/117864036/2a2ec899-f03e-4a35-97d1-49e6f3c50b74)
+
 
 
 
